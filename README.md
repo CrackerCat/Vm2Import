@@ -1,5 +1,5 @@
 # Vm2Import
-fix vmprotect import function used unicorn-engine.
+fix vmp3.x import function used unicorn-engine.
 
 it can repair functions such as <code>call [module.function]</code> or <code>jmp [module.function]</code> that are statically imported by the VM.
 
